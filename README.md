@@ -1,6 +1,6 @@
 # 🧠 Smart Recipe Generator
 
-A web-based application that uses OCR and AI to generate recipes based on ingredients provided by the user. Just scan or input your available ingredients, and the app suggests smart, healthy, and creative recipes!
+A web-based application that uses OCR and AI to generate recipes based on ingredients provided by the user. Just upload a picture or input your available ingredients, and the app suggests smart, healthy, and creative recipes!
 
 ## 🚀 Features
 
