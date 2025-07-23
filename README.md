@@ -21,3 +21,23 @@ A web-based application that uses OCR and AI to generate recipes based on ingred
   - [Bootstrap](https://getbootstrap.com/) (for styling, if used)
 
 ## 📷 Screenshots
+
+<img width="1919" height="865" alt="Image" src="https://github.com/user-attachments/assets/3eba3a5a-a3a1-46f0-9297-8409e323f43a" />
+
+<img width="1644" height="867" alt="Image" src="https://github.com/user-attachments/assets/570914bb-dc6e-4738-a574-d36fa7045a14" />
+
+<img width="1650" height="862" alt="Image" src="https://github.com/user-attachments/assets/ac88cce9-2adf-463d-82ec-48197fb96763" />
+
+## 📁 Project Structure
+
+smart-recipe-generator/
+│
+├── static/
+│   ├── css/
+│   └── js/
+├── templates/
+│   └── index.html
+├── app.py
+├── requirements.txt
+└── README.md
+
